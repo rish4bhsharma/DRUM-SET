@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+h2{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+button{
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+body{
+    background-color: lightsteelblue;
+}
+.a{
+    background-image: url("tom1.png");
+}
+.s{
+    background-image: url("tom2.png");
+}
+.d{
+    background-image: url("tom3.png");
+}
+.f{
+    background-image: url("tom4.png");
+}
+
+.animate{
+    background-color: blueviolet;
+    opacity: 20%;
+}
